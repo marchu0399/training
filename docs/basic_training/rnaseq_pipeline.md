@@ -2,7 +2,6 @@
 title: Simple RNA-Seq workflow
 description: Fundamentals Nextflow Training Workshop
 ---
-
 # Simple RNA-Seq workflow
 
 To demonstrate a real-world biomedical scenario, you will implement a proof of concept RNA-Seq workflow which:
